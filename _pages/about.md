@@ -19,38 +19,18 @@ redirect_from:
 
 I am currently a Ph.D. candidate at the Machine Learning and Data Mining Lab of Tianjin University, led by Professor [Qinghua Hu](https://cic.tju.edu.cn/faculty/huqinghua/index.html). My advisor is Professor [Changqing Zhang](https://cic.tju.edu.cn/faculty/zhangchangqing/research.html), who is the best mentor I could ask for, always providing valuable guidance and support. My research focuses on multimodal machine learning, where I explore the integration of various data modalities to improve learning models. I have published more than 10 papers in top international AI conferences and journals, including IEEE TPAMI, NeurIPS, ICLR, and CVPR, with a total of <a href='https://scholar.google.com/citations?user=F2BBkQEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar. I have been honored with the Tencent Rhino Bird Elite Research Talent Award and have led a Youth Research Project funded by the National Natural Science Foundation of China. Additionally, my research has been recognized with the Tianjin Natural Science First Prize.
 
+我目前是天津大学机器学习与数据挖掘实验室的博士研究生，实验室由[胡清华](https://cic.tju.edu.cn/faculty/huqinghua/index.html)教授领导。我的导师是[张长青](https://cic.tju.edu.cn/faculty/zhangchangqing/research.html)教授，他是我能遇到的最好的导师，总是给予我宝贵的指导和支持。我的研究方向是多模态机器学习，主要探索不同数据模态的融合，以提高学习模型的性能。我已经在IEEE TPAMI、NeurIPS、ICLR和CVPR等顶级国际AI会议和期刊上发表了超过10篇论文，谷歌学术引用次数达到 <a href='https://scholar.google.com/citations?user=F2BBkQEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。我曾荣获腾讯犀牛鸟精英研究人才奖，并主持了由国家自然科学基金资助的青年学生基础研究项目。此外，我的研究还获得了天津市自然科学一等奖的荣誉。
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2015.09 - 2019.06*, Dalian University of Technology, Bachelor's in Communication Engineering.
+- *2019.09 - 2021.06*, Tianjin University, Master's in Computer Science.
+- *2021.09 - 2025.06*, Tianjin University, Ph.D. in Computer Science.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🌍 Exchange Experience
+- *2021.06 - 2022.07*, Tencent AI Lab, Internship, Mentored by Jianhua Yao, Fan Yang, and Bingzhe Wu.
+- *2023.10 - 2024.10*, Show Lab, Visiting Student, Mentored by Mike Zheng Shou.
