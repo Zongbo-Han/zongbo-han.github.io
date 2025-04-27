@@ -21,8 +21,6 @@ I am currently a Ph.D. candidate at the Machine Learning and Data Mining Lab of 
 
 我目前是天津大学机器学习与数据挖掘实验室的博士研究生，实验室由[胡清华](https://cic.tju.edu.cn/faculty/huqinghua/index.html)教授领导。我的导师是[张长青](https://cic.tju.edu.cn/faculty/zhangchangqing/research.html)教授，他给我提供了许多宝贵的指导和支持。我的主要研究方向是多模态机器学习，主要探索不同数据模态的融合，以提高学习模型的性能。我经在IEEE TPAMI、NeurIPS、ICLR和CVPR等顶级国际AI会议和期刊上发表了超过10篇论文，谷歌学术引用次数达到 <a href='https://scholar.google.com/citations?user=F2BBkQEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。我曾荣获腾讯犀牛鸟精英研究人才奖，并主持了由国家自然科学基金资助的青年学生基础研究项目（博士研究生项目）。此外，我作为主要完成人还获得了天津市的自然科学一等奖。
 
-<a href='https://scholar.google.com/citations?user=F2BBkQEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 ****
 ## His research focuses on: 
 * 🔥 **Multimodal Machine Learning**: Trustworthy multi-modal learning，Vision-language model.
